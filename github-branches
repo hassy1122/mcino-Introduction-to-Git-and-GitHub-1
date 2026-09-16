@@ -1,0 +1,16 @@
+$ git branch -a
+
+  bug-fix-revert
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-revert
+  remotes/origin/bug-fix-typo
+  remotes/origin/main
+
+$ git branch -vv
+
+  bug-fix-revert c218633 Update README.md with usage instructions
+  bug-fix-typo   938dbb9 Fix typo in README.md: Output -> Output:
+* main           d536ac4 [origin/main] Merge pull request #2 from hassy1122/bug-fix-typo
+
