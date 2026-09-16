@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+Run the simple-interest.sh script to calculate simple interest.
